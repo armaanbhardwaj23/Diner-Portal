@@ -4,7 +4,7 @@ This restaurant portal is designed for the Rainy Roof Restaurant. It offers the 
 https://rainyroof.vercel.app/
 
 # Screenshots
-! [2](https://user-images.githubusercontent.com/70470157/208200258-e442289c-251b-472e-8809-7bed54cf6c29.png)
+![2](https://user-images.githubusercontent.com/70470157/208200258-e442289c-251b-472e-8809-7bed54cf6c29.png)
 <br></br>
 ![3](https://user-images.githubusercontent.com/70470157/208200356-49028e13-c63d-4d78-aff4-8659c5f367fb.png)
 <br></br>
